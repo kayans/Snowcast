@@ -1,4 +1,4 @@
-# Snaowcast
+# Snowcast
 This project is a simplified version of an Internet radio station that includes a server and client. The duty of the server is to keep track of subscribed clients and send them streaming data at a precise rate (16KiB/s). Clients provide a simple user's interface and are capable of joining/switching/leaving stations, and even "playing" the music.
 
 
